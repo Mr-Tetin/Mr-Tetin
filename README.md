@@ -1,18 +1,13 @@
 <h1 align="center">Olá, eu sou o Neto 👋</h1> <h3 align="center">Desenvolvedor Back-end | Estudante de Engenharia de Software na UFC - Russas</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Back-end+Developer;.NET+%7C+Java+%7C+Python+%7C+C%2FC%23;Sempre+aprendendo+algo+novo!" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/raimundo-porto" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://lattes.cnpq.br/5911210921452686" target="_blank"> <img src="https://img.shields.io/badge/Lattes-1E3A5F?style=for-the-badge&logo=academia&logoColor=white" /> </a> <a href="https://raimundodev.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:raimundo.porto5566@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 🧠 Sobre mim:
+    -🎓 Formando em Engenharia de Software pela UFC - Campus Russas
+    -💻 Foco em desenvolvimento Back-end, com interesse em sistemas escaláveis, APIs e arquitetura de software
+    -🗄️ Experiência com bancos de dados relacionais (PostgreSQL)
+    -🚀 Sempre buscando aprender novas tecnologias e boas práticas de código
+    -🌱 Interessado também em Front-end e em soluções full stack quando o projeto pede
 
-    🎓 Formando em Engenharia de Software pela UFC - Campus Russas
-    
-    💻 Foco em desenvolvimento Back-end, com interesse em sistemas escaláveis, APIs e arquitetura de software
-    
-    🗄️ Experiência com bancos de dados relacionais (PostgreSQL)
-    
-    🚀 Sempre buscando aprender novas tecnologias e boas práticas de código
-    
-    🌱 Interessado também em Front-end e em soluções full stack quando o projeto pede
-    
-    🛠️ Tecnologias
+-🛠️ Tecnologias
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=dotnet,cs,java,c,python,postgres,git,github" /> </p>
 
