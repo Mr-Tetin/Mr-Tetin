@@ -12,9 +12,13 @@
     
   -🌱 Interessado também em Front-end e em soluções full stack quando o projeto pede
 
+
+
 🛠️ Tecnologias:
 
+
 <p align="left"> <img src="https://skillicons.dev/icons?i=dotnet,cs,java,c,python,postgres,git,github" /> </p>
+
 
 📌 Projetos em destaque: 
 
