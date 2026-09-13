@@ -11,9 +11,8 @@
   -🚀 Sempre buscando aprender novas tecnologias e boas práticas de código
     
   -🌱 Interessado também em Front-end e em soluções full stack quando o projeto pede
-
-
-
+<br>
+<br>
 🛠️ Tecnologias:
 <br>
 <br>
