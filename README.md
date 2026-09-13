@@ -2,17 +2,17 @@
 
 🧠 Sobre mim:
 
--🎓 Formando em Engenharia de Software pela UFC - Campus Russas
+  -🎓 Formando em Engenharia de Software pela UFC - Campus Russas
     
--💻 Foco em desenvolvimento Back-end, com interesse em sistemas escaláveis, APIs e arquitetura de software
+  -💻 Foco em desenvolvimento Back-end, com interesse em sistemas escaláveis, APIs e arquitetura de software
     
--🗄️ Experiência com bancos de dados relacionais (PostgreSQL)
+  -🗄️ Experiência com bancos de dados relacionais (PostgreSQL)
     
--🚀 Sempre buscando aprender novas tecnologias e boas práticas de código
+  -🚀 Sempre buscando aprender novas tecnologias e boas práticas de código
     
--🌱 Interessado também em Front-end e em soluções full stack quando o projeto pede
+  -🌱 Interessado também em Front-end e em soluções full stack quando o projeto pede
 
--🛠️ Tecnologias
+🛠️ Tecnologias:
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=dotnet,cs,java,c,python,postgres,git,github" /> </p>
 
