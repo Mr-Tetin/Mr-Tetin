@@ -20,5 +20,5 @@
 📌 Fixe (pin) seus repositórios favoritos aqui no GitHub — eles aparecem automaticamente logo abaixo desta seção quando alguém visita seu perfil.
 
 📊 Estatísticas do GitHub
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Tetin&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tetin&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Tetin&hide_border=true" alt="streak stats" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Tetin&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tetin&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Mr-Tetin&hide_border=true" alt="streak stats" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mr-Tetin&label=Visitas%20ao%20perfil&color=2F80ED&style=flat" /> </p> <p align="center"><i>Aberto a oportunidades e projetos na área de desenvolvimento Back-end 🚀</i></p>
