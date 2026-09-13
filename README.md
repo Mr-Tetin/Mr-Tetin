@@ -27,6 +27,7 @@
 
 
 📊 Estatísticas do GitHub
-
+<br>
+<br>
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Mr-Tetin&hide_border=true" alt="streak stats" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mr-Tetin&label=Visitas%20ao%20perfil&color=2F80ED&style=flat" /> </p> <p align="center"><i>Aberto a oportunidades e projetos na área de desenvolvimento Back-end 🚀</i></p>
