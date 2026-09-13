@@ -15,11 +15,11 @@
 
 
 🛠️ Tecnologias:
-
-
+<br>
+<br>
 <p align="left"> <img src="https://skillicons.dev/icons?i=dotnet,cs,java,c,python,postgres,git,github" /> </p>
-
-
+<br>
+<br>
 📌 Projetos em destaque: 
 
 <table> <tr> <td width="33%"> <h4>💣 Campo_Minado</h4> Jogo de Campo Minado desenvolvido em C. <br /><br /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <br /><br /> <a href="https://github.com/Mr-Tetin/Campo_Minado">🔗 Ver repositório</a> </td> <td width="33%"> <h4>🐦 Twitter</h4> Pequeno clone do Twitter em C, com trend topics, perfil, postagens e armazenamento persistente. <br /><br /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <br /><br /> <a href="https://github.com/Mr-Tetin/Twitter">🔗 Ver repositório</a> </td> <td width="33%"> <h4>🌐 PayBack</h4> Hub simples de rede que faz pequenos mapeamentos, como sistema atual, IP e informações do tipo. <br /><br /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <br /><br /> <a href="https://github.com/Mr-Tetin/PayBack">🔗 Ver repositório</a> </td> </tr> </table>
